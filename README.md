@@ -1,5 +1,16 @@
 # Grade 3 Asynchronous Curriculum: Interactive Learning Experience
 
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-View_Site-2f6f8f?style=for-the-badge&logo=github)](https://bzafranks.github.io/grade3-async-curriculum/)
+&nbsp;
+[![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=for-the-badge&logo=githubpages)](https://bzafranks.github.io/grade3-async-curriculum/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![No Dependencies](https://img.shields.io/badge/Dependencies-none-4caf82?style=flat)
+
+> **🔗 Live site:** <https://bzafranks.github.io/grade3-async-curriculum/>
+
 A polished, portfolio-ready curriculum design project that reimagines a set of Grade 3
 English Language Arts lessons as a complete **asynchronous online curriculum** with
 interactive components. It is built to work for three audiences at once: **independent
